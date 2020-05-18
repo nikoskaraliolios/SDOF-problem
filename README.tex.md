@@ -16,12 +16,10 @@ and with an arbitrary excitation function
 $$f : [0 , \bar{T}] \rightarrow \mathbb{R}$$
 acting on the system for a finite time.
 
-
-This is relevant to Civil Engineering problems, as it modelizes the response of simple
+This problem is relevant to Civil Engineering problems, as it modelizes the response of simple
 structures under a dynamic load (e.g. an earthquake or a train crossing a bridge).
 More relevant, of course, is the MDOF (Multi-Degree of Freedom) problem, which models
 more compex structures.
-
 
 The theoretical background generating a family of algorithms for both the SDOF and
 MDOF problems will be provided in a forthcoming article in collaboration with prof.
